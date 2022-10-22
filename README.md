@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Balaji Prabhu
-Software Engineer at Ford Motor Company
+Software Engineer at Thoughtworks
 
 ### Skills
 
