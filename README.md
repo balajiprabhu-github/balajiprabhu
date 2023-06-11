@@ -26,4 +26,5 @@ Software Engineer at Thoughtworks
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=balajiprabhu-github)  
 
-![Profile views](https://gpvc.arturio.dev/balajiprabhu-github)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=balajiprabhu-github&label=Profile%20views&color=0e75b6&style=flat" alt="balajiprabhu-github" /> </p>
+
