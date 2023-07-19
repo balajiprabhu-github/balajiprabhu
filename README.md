@@ -6,6 +6,7 @@ Software Engineer at Thoughtworks
 ![Java](https://img.shields.io/static/v1?label=&message=Java&color=2bbc8a)
 ![Android](https://img.shields.io/static/v1?label=&message=Android&color=2bbc8a)
 ![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=2bbc8a)
+![Coroutines](https://img.shields.io/static/v1?label=&message=Kotlin&color=2bbc8a)
 ![MVVM](https://img.shields.io/static/v1?label=&message=MVVM&color=2bbc8a)
 ![Jetpacks](https://img.shields.io/static/v1?label=&message=Jetpacks&color=2bbc8a)
 ![Dagger](https://img.shields.io/static/v1?label=&message=Dagger&color=2bbc8a)
