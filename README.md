@@ -13,6 +13,8 @@ Software Engineer at Thoughtworks
 ![RxJava](https://img.shields.io/static/v1?label=&message=RxJava&color=2bbc8a)
 ![Data Structures](https://img.shields.io/static/v1?label=&message=DataStructures&color=2bbc8a)
 ![Algorithms](https://img.shields.io/static/v1?label=&message=Algorithms&color=2bbc8a)
+![Dart](https://img.shields.io/static/v1?label=&message=Dart&color=2bbc8a)
+![Flutter](https://img.shields.io/static/v1?label=&message=Flutter&color=2bbc8a)
 
 ### LinkedIn
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/balajip96/) 
